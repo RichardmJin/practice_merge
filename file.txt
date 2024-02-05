@@ -1,3 +1,3 @@
 Another new hello!
-Hello from yet another change in new-feature branche!
+Hello from main branch!
 Another new hello!
