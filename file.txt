@@ -1,1 +1,3 @@
-Hello from both branches!
+Another new hello!
+Hello from yet another change in new-feature branche!
+Another new hello!
